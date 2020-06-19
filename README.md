@@ -6,34 +6,33 @@ The fact that you're reading this (and I'm typing this) whenever we want is a gr
 
 ## How did we get here?
 
-Before COVID, the world was already largely relying on async communication (see the 60% stat below). What's really new, is the push to remote work. Many, many people are experiencing remote work for the first time.
+In this fellowship specifically, we're working on open-source with people from all over the world (and differnt timezones). Most open source maintainers have no boss and work on their own schedule. Some contribute after work, and some work just when they feel like it. This is pretty different from how a typical company operates.
+
+While open source is a unique case where this workstyle is popular, it's not entirely new. Before COVID, the world was already largely relying on **async** communication (see the 60% stat below). What's really novel however, is the move to **remote** work.
 
 > In a study conducted by Condeco Software, 41% of global businesses surveyed say they already offer some degree of remote working, while 60% provide flextime opportunities that allow employees to choose when to start and end their workday.
 
-[Source](https://www.flexjobs.com/blog/post/remote-work-statistics). These stats are pre-covid.
+[Source (Pre-COVID)](https://www.flexjobs.com/blog/post/remote-work-statistics)
 
 ## Remote Async means two things!
 
-You might have heard of *async* communication, or *remote* work but what is **async remote**? Well, it's a combination of both qualities. 
+You might have heard of **async** communication, or **remote** work but what is **async remote**? Well, it's a combination of both qualities. 
 
-You already have experience with *async* communication, but you might not have worked remotely before. Here's a simple chart showing what both experiences look like:
+You already have experience with *async* communication (like email and google docs), but you might not have worked remotely before. The combination of these two can be quite different!
 
-|  | Sync | Async |
-|---|---|---|
-| Office | Meetings | Emails, Documents |
-| Remote | Video Calls, Chat | Email, Documents |
+> The biggest thing to note in a remote async world, you have no "forceful" sync option. For example, in an office, if someone doesn't reply you can go poke them. In this world, you have no other option but to wait.
 
-### Location
-
-- **office** - Allows you to "bump" into someone, chat verbally, etc.
-- **remote** - Intentional interaction, reach out, text based.
-
-### Communication
+### Sync vs Async
 
 For starters, here's what "synchronous" and "asyncronous" mean in regards to collaboration:
 
 - **sync** - Two or more people exchange information in real-time. In most workplaces communication happens that way and people expect real-time responses. 
 - **async** - The exchange of data between two or more parties without the requirement for all the recipients to respond immediately.
+
+### Office vs Remote
+
+- **office** - Allows you to "bump" into someone, chat verbally, etc.
+- **remote** - Intentional interaction, reach out, text based.
 
 ### Comparisons
 
@@ -47,21 +46,45 @@ Let's take a look at some more comparisons in practice:
 | Watercooler Conversation | Topic Based Chat |
 | Tapping someone on the shoulder | Direct Messaging |
 
-## Tools
+## The importance of text
 
-### Collaboration
+Have you noticed that voice-memo apps have never caught on? Think about how annoying it is to listen to voice-mail. Text is just better for some things:
+
+- Reading is faster than "listening*
+- Allows for search
+- Allows us to represent `code` literally 
+- Scalable
+- Revisable, collaborative. Just look at this doc!
+
+Of course, there's no substitue for the tone that a voice or video call provides. We are human after all!
+
+## The importance of scalablity
+
+Since we're communicating in text anyway, one of the biggest benefits is scalalbility. By writing this document, I can send it to any number of people. Text is a broadcast medium by default.
+
+You should always take advantage of the scalability of text when you can. Share articles you write, share notes you take, post your `git logs` in your chat.
+
+# Helpful Links
+
+So, where do you go from here? There's a whole lot to learn about this workstyle. I've included some links here that will help you becoime familiar with these different workstyles and how to thrive in them.
+
+Imagine you're blocked on waiting for someone to respond. You can add "follow up with x" to a "todo" manager app so you can free your mind to work on something else.
+
+And in another case, you might find yourself unproductive at home. Below are some articles on how to better managem your time.
+
+## Collaboration
 
 - [How to get help during MLH fellowship](https://github.com/MLH-Fellowship/how-to-get-help/)
 - [Notes from GitLab](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [Notse from Buffer](https://open.buffer.com/asynchronous-communication/)
 
-### Productiviy and Self Management
+## Productiviy and Self Management
 
 - [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done)
 - [Flow State](https://en.wikipedia.org/wiki/Flow_(psychology))
 - [Pomodoro](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 
-### Apps
+## Apps
 
 - Your GitHub Project Board!
 - [Todoist](https://todoist.com/)
